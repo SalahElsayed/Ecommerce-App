@@ -1,4 +1,3 @@
-# The author is Salah E.Abuhashim
 # E-commerce App
 This is an e-commerce web application built using Django and Django REST Framework.
 
@@ -55,3 +54,8 @@ Follow these steps to get the project up and running on your local machine:
    ```
 
 7. Access the app in your web browser at `http://localhost:8000`.
+
+
+Contact with the author 
+Salah E.Abuhashim 
+salahelsayed995@gmail.com
